@@ -3,7 +3,7 @@ layout: page
 title: Accessibility and Testing with TalkBack
 ---
 
-TalkBack is the defualt screen reader on Android devices. 
+TalkBack is the default screen reader on Android devices. 
 
 It's recommended to use the **latest and fastest Android device** you have access to, such as a Nexus 7. Test with **Chrome**.
 
